@@ -1,0 +1,22 @@
+.profileBar {
+  display: flex;
+  margin: 1em;
+  align-items: center;
+}
+.avatarProfileBar {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+}
+.userNameProfile {
+  color: #666;
+  margin-left: 5px;
+}
+.profileButton {
+  background-color: #2d84cc;
+  color: #fff;
+  border: 1px solid #1f6fb1;
+  margin: 0 1em;
+  padding: 0.5em 0.75em;
+}

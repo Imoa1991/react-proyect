@@ -1,0 +1,63 @@
+.messageContent {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 0.5px;
+  padding: 1em;
+  margin: 0.5em;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  width: 34pt;
+  height: 34pt;
+  border-radius: 50%;
+}
+
+.displayName {
+  font-weight: bold;
+  padding: 0.5em;
+}
+
+.username {
+  color: #aaa;
+}
+
+.date {
+  color: #aaa;
+  padding: 0.5em;
+  font-size: 8pt;
+}
+
+.text {
+  font-size: 16pt;
+  font-weight: 200;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-start;
+  color: #aaa;
+}
+
+.icon {
+  margin-right: 3em;
+}
+.iconGreen {
+  color: #20883f;
+  margin-right: 3em;
+}
+
+.iconYellow {
+  color: #e2c400;
+  margin-right: 3em;
+}
+
+.num {
+  font-size: 10pt;
+  margin-right: 3em;
+  margin-left: 0.25em;
+}
